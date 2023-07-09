@@ -1,0 +1,19 @@
+{
+  "name": "valorantapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lawyn",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jsonwebtoken": "^9.0.2",
+    "@types/memory-cache": "^0.2.3",
+    "axios": "^1.4.0",
+    "jsonwebtoken": "^9.0.1",
+    "memory-cache": "^0.2.0",
+    "node-cache": "^5.1.2"
+  }
+}
